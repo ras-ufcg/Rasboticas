@@ -5,28 +5,10 @@ Empoderando e desenvolvendo mulheres.
 
 Projeto RASbóticas - Robótica para meninas 
   
-Objetivo:
-Engajar voluntárias a estarem presentes em áreas como robótica e automação, a fim de aumentar a participação feminina em áreas que geralmente são predominantemente masculinas. Dessa forma, empoderar as voluntárias e agregar conhecimentos da área do capítulo. 
+O projeto tem como objetivo engajar e inspirar meninas a estarem presentes em áreas como robótica e automação, e a fim de aumentar a participação feminina em áreas que geralmente são predominantemente masculinas
 
-Membros:
+Para estimular essa participação, ter referências femininas a frente é fundamental. Para tanto, o projeto é orientado por três alunos do curso de Engenharia Elétrica, que já possuíam experiências na área devido a participação no Capítulo Estudantil IEEE RAS UFCG. Dessa maneira, as meninas se inspiram em outras meninas próximas a elas formando um vínculo de empoderamento e força. 
 
-Larissa Teixeira da Silva
 
-Marina Oliveira Batista 
 
-Sarah Stella Borba Miguel 
-
-Noêmia Cíntia Sales Santos da Silva
-
-Rossana da Silva Pontes 
-
-Emilly Cristine de Araújo Silva
-
-Beatriz Emiliano Maciel de Sousa 
-
-Tâmara Ruth Dantas dos Santo 
-
-Raissa Tainá Pordeus Ferreira  
-
-Sabrina Araújo Cardoso
 
