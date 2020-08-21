@@ -1,7 +1,7 @@
 # Rasboticas
 Empoderando e desenvolvendo mulheres.
 
-![rasboticas](recent:///d84afc144f73cddcca3ace675f400bbf)
+![rasboticas](RASboticas.png)
 
 Projeto RASbóticas - Robótica para meninas 
   
