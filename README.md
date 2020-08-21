@@ -11,13 +11,22 @@ Engajar voluntárias a estarem presentes em áreas como robótica e automação,
 Membros:
 
 Larissa Teixeira da Silva
+
 Marina Oliveira Batista 
+
 Sarah Stella Borba Miguel 
+
 Noêmia Cíntia Sales Santos da Silva
+
 Rossana da Silva Pontes 
+
 Emilly Cristine de Araújo Silva
+
 Beatriz Emiliano Maciel de Sousa 
+
 Tâmara Ruth Dantas dos Santo 
+
 Raissa Tainá Pordeus Ferreira  
+
 Sabrina Araújo Cardoso
 
