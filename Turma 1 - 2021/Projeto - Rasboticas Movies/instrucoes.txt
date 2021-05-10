@@ -1,0 +1,10 @@
+------------------------------------------------------ 
+  Olá, bem-vinda às intruções do Rasbóticas Movies!
+------------------------------------------------------
+            Explicando opções do menu: 
+
+[0]: Encerrar o programa
+[1]: Ver recomendações de filmes no geral
+[2]: Adicionar algum filme como assistido além de sua classificação bem como ver as classificações para os filmes que você já assistiu
+[3]: O que é, como surgiu e o que fazem as Rasbóticas
+[4]: Ler essas intruções
