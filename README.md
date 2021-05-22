@@ -3,7 +3,7 @@ Empoderando e desenvolvendo mulheres.
 
 ![rasboticas](RASboticas.png)
 
-#Projeto RASbóticas - Robótica para meninas 
+Projeto RASbóticas - Robótica para meninas 
   
 O projeto tem como objetivo engajar e inspirar meninas a estarem presentes em áreas como robótica e automação, e a fim de aumentar a participação feminina em áreas que geralmente são predominantemente masculinas.
 
