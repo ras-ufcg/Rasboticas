@@ -1,4 +1,4 @@
-import sim #importar funcoes do coppeliasim
+import sim  #importar funcoes do coppeliasim
 import time #importar o uso do tempo/relogio
 sim.simxFinish(-1) #encerra se receber -1
 
