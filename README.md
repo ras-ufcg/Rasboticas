@@ -1,9 +1,11 @@
-# Projeto Rasboticas
-### Empoderando e desenvolvendo mulheres.
+![rasboticas](logo.png)
 
-<!--
-![rasboticas](RASboticas.png)
--->
+
+<h2 align="center"> 
+	Projeto Rasboticas
+</h2>
+
+<!-- adicionar os badges  -->
 
 ## Descrição
 
@@ -24,5 +26,6 @@ Ao longo do projeto as alunas utilizam as seguintes tecnologias:
 
 ## Colaboradoras
 
-
-
+<h4 align="center"> 
+	🚧  Readme em construção...  🚧
+</h4>
