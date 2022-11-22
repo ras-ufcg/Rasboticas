@@ -13,7 +13,7 @@ O projeto RASbóticas tem como objetivo encorajar a participação e desenvolvim
 Para alcançar estes objetivos, é fundamental ter referências femininas a frente, para que haja representatividade. Assim, o projeto foi fundado em 2020 e atualmente é orientado por alunas do curso de Engenharia Elétrica, que possuem experiências na área, adquiridos por meio da participação no Capítulo Estudantil IEEE RAS UFCG. Dessa forma, as alunas se inspiram em mulheres próximas a elas formando um vínculo de empoderamento e força.
 
 ### Palavras-chaves
-Robótica, Mulheres, Empoderamento
+Robótica, Mulheres, Empoderamento, Tecnologia
 
 ## Metodologia
 
